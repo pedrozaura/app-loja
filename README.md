@@ -97,7 +97,7 @@ npx expo start
 
 **Nome:** Pedro Zaura e Lucas Lima
 **Curso:** Engenharia de Software  
-**Semestre:** 5º
+**Semestre:** 7º - Periodo.
 
 ---
 
