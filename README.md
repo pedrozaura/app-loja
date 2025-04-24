@@ -87,7 +87,7 @@ app-loja/
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/Pro-Franco/app-loja.git
+git clone https://github.com/pedrozaura/app-loja.git
 cd app-loja
 npm install
 npx expo start
