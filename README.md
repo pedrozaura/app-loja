@@ -48,3 +48,57 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+# App Loja - Catálogo de Produtos
+
+Aplicativo desenvolvido em React Native com Expo e Expo Router como parte da disciplina de Desenvolvimento de Dispositivos Móveis do curso de Engenharia de Software.
+
+## 🚀 Funcionalidades
+
+- Navegação por abas com Expo Router
+- Listagem de categorias
+- Produtos por categoria
+- Detalhes do produto
+- Página "Sobre Mim" com informações do desenvolvedor
+
+## 🧪 Tecnologias Utilizadas
+
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [Expo Router](https://expo.github.io/router/docs)
+
+## 📂 Estrutura de Pastas
+
+```
+app-loja/
+├── app/
+│   ├── index.tsx                # Tela Início
+│   ├── categorias/
+│   │   ├── index.tsx            # Lista de Categorias
+│   │   └── [id].tsx             # Produtos por Categoria
+│   ├── produto/
+│   │   └── [id].tsx             # Detalhes do Produto
+│   ├── sobre.tsx               # Tela Sobre Mim
+│   └── _layout.tsx             # Navegação Tabs
+├── data/index.ts               # Dados simulados
+└── README.md
+```
+
+## 📦 Instalação
+
+```bash
+git clone https://github.com/Pro-Franco/app-loja.git
+cd app-loja
+npm install
+npx expo start
+```
+
+## 🧠 Sobre o Desenvolvedor
+
+**Nome:** Pedro Zaura e Lucas Lima
+**Curso:** Engenharia de Software  
+**Semestre:** 5º
+
+---
+
+Projeto acadêmico orientado pelo professor Roginaldo Franco.
