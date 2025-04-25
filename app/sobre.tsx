@@ -6,7 +6,7 @@ export default function Sobre() {
       <Text style={styles.titulo}>Sobre Mim</Text>
       <Text>Nome: Pedro Zaura e Lucas Lima</Text>
       <Text>Curso: Engenharia de Software</Text>
-      <Text>Semestre: 7º</Text>
+      <Text>Semestre: 7º Periodo</Text>
       <Text>Arquivos de dados, gerados com apoio de IA Generativa!</Text>
     </View>
   );
